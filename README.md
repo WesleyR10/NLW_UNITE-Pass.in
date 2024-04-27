@@ -1,3 +1,5 @@
+![localhost_3333_docs_static_index html (1)](https://github.com/WesleyR10/NLW_UNITE-Pass.in/assets/115756312/c2717048-1866-4d3a-a93f-4bb4ec0a1dac)
+
 # pass.in
 
 O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**. 
@@ -36,10 +38,6 @@ Para documentação da API, acesse o link: https://nlw-unite-nodejs.onrender.com
 ## Banco de dados
 
 Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente de desenvolvimento seguiremos com o SQLite pela facilidade do ambiente.
-
-### Diagrama ERD
-
-<img src=".github/erd.svg" width="600" alt="Diagrama ERD do banco de dados" />
 
 ### Estrutura do banco (SQL)
 
